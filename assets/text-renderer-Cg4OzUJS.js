@@ -1,0 +1,1 @@
+import{j as s}from"./ui-DWaDVKx6.js";const o=({items:e,className:n="",paragraphClassName:t=""})=>s.jsx("div",{className:n,children:e.map(r=>r==="<br>"?s.jsx("span",{className:"block h-4"},`br-${crypto.randomUUID()}`):s.jsx("p",{className:`${t}`,children:r},`text-${r}-${crypto.randomUUID()}`))});export{o as T};
