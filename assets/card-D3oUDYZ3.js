@@ -1,1 +1,0 @@
-import{j as a}from"./ui-DWaDVKx6.js";const t=({id:o,children:r,className:s})=>a.jsx("div",{id:o||void 0,className:`h-full min-h-0 rounded-lg bg-color-slate-800/50 shadow-lg backdrop-blur-sm ${s}`,children:r});export{t as S};
