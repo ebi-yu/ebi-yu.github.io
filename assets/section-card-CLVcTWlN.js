@@ -1,0 +1,1 @@
+import{j as l}from"./animations-CZA1hKO-.js";const a=({id:o,children:r,className:s})=>l.jsx("div",{id:o||void 0,className:`mobile:bg-color-none h-full min-h-0 rounded-lg bg-color-slate-800/50 shadow-sm backdrop-blur-sm ${s}`,children:r});export{a as S};

@@ -1,1 +1,0 @@
-import{j as a}from"./animations-B6K8_BPF.js";const e=({id:o,children:r,className:s})=>a.jsx("div",{id:o||void 0,className:`max-lg:bg-color-none h-full min-h-0 rounded-lg bg-color-slate-800/50 shadow-sm backdrop-blur-sm ${s}`,children:r});export{e as S};
