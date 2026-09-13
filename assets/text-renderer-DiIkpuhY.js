@@ -1,0 +1,2 @@
+import{j as o}from"./animations-B8BEzFOg.js";const l=({id:r,children:e,className:n})=>o.jsx("div",{id:r||void 0,className:`mobile:bg-color-none h-full min-h-0 rounded-lg bg-color-slate-800/50 shadow-sm backdrop-blur-sm ${n}`,children:e}),d=({items:r,className:e="",paragraphClassName:n=""})=>o.jsx("div",{className:e,children:r.map(s=>s==="<br>"||s===`
+`?o.jsx("span",{className:"block h-4"},`br-${crypto.randomUUID()}`):o.jsx("p",{className:`${n}`,children:s},`text-${s}-${crypto.randomUUID()}`))});export{l as S,d as T};
